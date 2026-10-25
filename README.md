@@ -2,3 +2,4 @@
 - Add directory structure overview for all seven questions
 - Document Question 01 high-frequency trading engine architecture
 - Explain TradeEvent superclass protected fields and constructor
+- Describe baseline dispatch method in TradeEvent
