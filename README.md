@@ -6,3 +6,4 @@
 - Document FixOrderEvent inheritance and super constructor call
 - Explain 0.15 percent exchange fee calculation in FixOrderEvent
 - Describe ReutersQuoteEvent bid and ask price fields
+- Explain real-time bid-ask spread calculation in ReutersQuoteEvent
