@@ -7,3 +7,4 @@
 - Explain 0.15 percent exchange fee calculation in FixOrderEvent
 - Describe ReutersQuoteEvent bid and ask price fields
 - Explain real-time bid-ask spread calculation in ReutersQuoteEvent
+- Document polymorphic event array execution in TradingEngineApp
