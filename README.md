@@ -21,3 +21,4 @@
 - Describe 1000ms sleep cycle in LogProcessorTask loop
 - Explain direct Thread extension in TelemetryThread
 - Describe 800ms health check loop in TelemetryThread
+- Document custom worker thread naming in AsyncWebEngineApp
