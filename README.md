@@ -44,3 +44,4 @@
 - Add compilation and run commands for Question 06
 - Document Question 07 hardware cache locality matrix benchmark
 - Explain Row-Major contiguous memory traversal performance
+- Explain Column-Major cache misses and memory stalls
