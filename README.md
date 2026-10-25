@@ -10,3 +10,4 @@
 - Document polymorphic event array execution in TradingEngineApp
 - Add compilation and run commands for Question 01
 - Document Question 02 zero-trust packet symmetry verifier
+- Explain fixed-capacity array storage in TransactionStack
