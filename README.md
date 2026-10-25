@@ -25,3 +25,4 @@
 - Explain concurrent start and state logging in AsyncWebEngineApp
 - Add compilation and run commands for Question 03
 - Document Question 04 ForkJoin portfolio assessment engine
+- Explain RecursiveTask sum calculation in ParallelRiskCalculator
