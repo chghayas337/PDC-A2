@@ -26,3 +26,4 @@
 - Add compilation and run commands for Question 03
 - Document Question 04 ForkJoin portfolio assessment engine
 - Explain RecursiveTask sum calculation in ParallelRiskCalculator
+- Describe sequential threshold of 1000 elements for subtasks
