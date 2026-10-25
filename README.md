@@ -18,3 +18,4 @@
 - Add compilation and run commands for Question 02
 - Document Question 03 multithreaded telemetry engine
 - Explain Runnable interface implementation in LogProcessorTask
+- Describe 1000ms sleep cycle in LogProcessorTask loop
