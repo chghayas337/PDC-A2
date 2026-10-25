@@ -4,3 +4,4 @@
 - Explain TradeEvent superclass protected fields and constructor
 - Describe baseline dispatch method in TradeEvent
 - Document FixOrderEvent inheritance and super constructor call
+- Explain 0.15 percent exchange fee calculation in FixOrderEvent
