@@ -15,3 +15,4 @@
 - Explain FIFO circular buffer pointers in RequestQueue
 - Describe enqueue dequeue and isEmpty methods in RequestQueue
 - Document palindrome verification loop in PacketSymmetryAuditor
+- Add compilation and run commands for Question 02
