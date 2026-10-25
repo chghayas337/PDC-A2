@@ -23,3 +23,4 @@
 - Describe 800ms health check loop in TelemetryThread
 - Document custom worker thread naming in AsyncWebEngineApp
 - Explain concurrent start and state logging in AsyncWebEngineApp
+- Add compilation and run commands for Question 03
