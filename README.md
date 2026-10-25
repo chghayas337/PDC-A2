@@ -34,3 +34,4 @@
 - Document Question 05 parallel IoT sensor search engine
 - Explain abstract SensorSearchEngine parent class design
 - Describe minimum temperature reduction in ParallelMinSearch
+- Describe peak vibration reduction in ParallelMaxSearch
