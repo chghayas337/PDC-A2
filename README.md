@@ -36,3 +36,4 @@
 - Describe minimum temperature reduction in ParallelMinSearch
 - Describe peak vibration reduction in ParallelMaxSearch
 - Document 4-thread array partitioning in SensorGridMonitorApp
+- Add compilation and run commands for Question 05
