@@ -32,3 +32,4 @@
 - Document ForkJoinPool execution and timing in ForkJoinPortfolioApp
 - Add compilation and run commands for Question 04
 - Document Question 05 parallel IoT sensor search engine
+- Explain abstract SensorSearchEngine parent class design
