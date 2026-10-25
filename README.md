@@ -28,3 +28,4 @@
 - Explain RecursiveTask sum calculation in ParallelRiskCalculator
 - Describe sequential threshold of 1000 elements for subtasks
 - Document fork and join reduction calls in ParallelRiskCalculator
+- Explain RecursiveAction 5 percent penalty in PortfolioThresholdTask
