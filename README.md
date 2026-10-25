@@ -41,3 +41,4 @@
 - Explain global lock contention in Collections.synchronizedMap
 - Explain fine-grained bucket locking in ConcurrentHashMap
 - Describe 10-thread 50000-operation throughput test
+- Add compilation and run commands for Question 06
