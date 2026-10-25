@@ -46,3 +46,4 @@
 - Explain Row-Major contiguous memory traversal performance
 - Explain Column-Major cache misses and memory stalls
 - Describe 2000x2000 matrix timing over 10 iterations
+- Add compilation and run commands for Question 07
