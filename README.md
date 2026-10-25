@@ -14,3 +14,4 @@
 - Describe push pop peek and isEmpty methods in TransactionStack
 - Explain FIFO circular buffer pointers in RequestQueue
 - Describe enqueue dequeue and isEmpty methods in RequestQueue
+- Document palindrome verification loop in PacketSymmetryAuditor
