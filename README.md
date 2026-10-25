@@ -35,3 +35,4 @@
 - Explain abstract SensorSearchEngine parent class design
 - Describe minimum temperature reduction in ParallelMinSearch
 - Describe peak vibration reduction in ParallelMaxSearch
+- Document 4-thread array partitioning in SensorGridMonitorApp
