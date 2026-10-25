@@ -22,3 +22,4 @@
 - Explain direct Thread extension in TelemetryThread
 - Describe 800ms health check loop in TelemetryThread
 - Document custom worker thread naming in AsyncWebEngineApp
+- Explain concurrent start and state logging in AsyncWebEngineApp
