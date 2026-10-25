@@ -16,3 +16,4 @@
 - Describe enqueue dequeue and isEmpty methods in RequestQueue
 - Document palindrome verification loop in PacketSymmetryAuditor
 - Add compilation and run commands for Question 02
+- Document Question 03 multithreaded telemetry engine
