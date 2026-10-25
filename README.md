@@ -30,3 +30,4 @@
 - Document fork and join reduction calls in ParallelRiskCalculator
 - Explain RecursiveAction 5 percent penalty in PortfolioThresholdTask
 - Document ForkJoinPool execution and timing in ForkJoinPortfolioApp
+- Add compilation and run commands for Question 04
