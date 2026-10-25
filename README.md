@@ -45,3 +45,4 @@
 - Document Question 07 hardware cache locality matrix benchmark
 - Explain Row-Major contiguous memory traversal performance
 - Explain Column-Major cache misses and memory stalls
+- Describe 2000x2000 matrix timing over 10 iterations
