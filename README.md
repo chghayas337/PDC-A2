@@ -37,3 +37,4 @@
 - Describe peak vibration reduction in ParallelMaxSearch
 - Document 4-thread array partitioning in SensorGridMonitorApp
 - Add compilation and run commands for Question 05
+- Document Question 06 ConcurrentHashMap vs SynchronizedMap benchmark
