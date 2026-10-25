@@ -33,3 +33,4 @@
 - Add compilation and run commands for Question 04
 - Document Question 05 parallel IoT sensor search engine
 - Explain abstract SensorSearchEngine parent class design
+- Describe minimum temperature reduction in ParallelMinSearch
