@@ -20,3 +20,4 @@
 - Explain Runnable interface implementation in LogProcessorTask
 - Describe 1000ms sleep cycle in LogProcessorTask loop
 - Explain direct Thread extension in TelemetryThread
+- Describe 800ms health check loop in TelemetryThread
