@@ -42,3 +42,4 @@
 - Explain fine-grained bucket locking in ConcurrentHashMap
 - Describe 10-thread 50000-operation throughput test
 - Add compilation and run commands for Question 06
+- Document Question 07 hardware cache locality matrix benchmark
