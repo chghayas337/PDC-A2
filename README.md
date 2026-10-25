@@ -9,3 +9,4 @@
 - Explain real-time bid-ask spread calculation in ReutersQuoteEvent
 - Document polymorphic event array execution in TradingEngineApp
 - Add compilation and run commands for Question 01
+- Document Question 02 zero-trust packet symmetry verifier
