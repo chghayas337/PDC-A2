@@ -1,2 +1,3 @@
 - Create README file with project title
 - Add directory structure overview for all seven questions
+- Document Question 01 high-frequency trading engine architecture
